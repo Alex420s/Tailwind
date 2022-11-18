@@ -1,0 +1,4 @@
+Al intentar correr Tailwind no sabia por donde empezar, pague un curso pero hace 10 meses no actualizan.
+Decidí buscar en la Documetación pero no me ayudo mucho. 
+Este es el material con el cual estoy aprendiendo:
+- https://www.youtube.com/watch?v=lCxcTsOHrjo
